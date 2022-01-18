@@ -47,6 +47,12 @@ public class Data_Types {
         System.out.println("Multiplication of two values are: " + mul);
         System.out.println("Division of two values are: " + div);
 
+        String firstname = "Ruhul ";
+        String lastname = "Amin";
+
+        String FullName = firstname + lastname;
+        System.out.println(FullName);
+
 
     }
 }
