@@ -1,2 +1,2 @@
-# Java-A-to-Z
+# Java 🎍
 In this repo, I will store Basic Java Programs 🧊
