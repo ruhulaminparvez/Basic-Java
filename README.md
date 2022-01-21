@@ -22,8 +22,10 @@ In this repo, I will store Basic Java Programs 🧊
 - [x] Challenge (Part ||)
 
 <br>
-<img width="150" src="https://mechomotive.com/wp-content/uploads/2021/06/java1.png" />
 <br>
+<br>
+<img width="150" src="https://mechomotive.com/wp-content/uploads/2021/06/java1.png" />
+
 
 
 ## Definition of JAVA
