@@ -2,7 +2,7 @@
 In this repo, I will store Basic Java Programs 🧊
 
 
-## Course Learning Path 🏁
+## Learning Path 🏁
 
 - [x] Variables & Arithmetic Operators
 - [x] Relational & Logical Operators (Conditional Statements)
