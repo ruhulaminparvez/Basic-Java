@@ -22,11 +22,11 @@ In this repo, I will store Basic Java Programs 🧊
 - [x] Challenge (Part ||)
 
 <br>
+<img width="150" src="https://mechomotive.com/wp-content/uploads/2021/06/java1.png" />
+<br>
 
 
 ## Definition of JAVA
-<img width="120" src="https://mechomotive.com/wp-content/uploads/2021/06/java1.png" />
-<br>
 Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 ## Java software used for
