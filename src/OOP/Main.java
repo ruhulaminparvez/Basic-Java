@@ -16,5 +16,10 @@ public class Main {
         iPhone.memoryRam = 2;
         System.out.println(iPhone.memoryRam);
 
+
+
+        iPhone.playMusic("Our Wings Are Burning!");
+        iPhone.playMusic("Lamenting Kiss");
+
     }
 }

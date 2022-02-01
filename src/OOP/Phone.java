@@ -5,4 +5,9 @@ public class Phone {
     int screenSize;
     int memoryRam;
     int camera;
+
+
+    public void playMusic(String trackName){
+        System.out.println("Playing: " + trackName);
+    }
 }
